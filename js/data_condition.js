@@ -2,7 +2,7 @@ data_condition = [
     {
         title: "Blinded",
         icon: "one-eyed",
-        subtitle: "Disadvantage on attacks, attacks against you have advantage",
+        subtitle: "Dis. attacks, attacks vs you have adv.",
         description: "You can't see",
         reference: "PHB, pg. 290.",
         bullets: [
