@@ -47,7 +47,7 @@ data_condition = [
     {
         title: "Frightened",
         icon: "sharp-smile",
-        subtitle: "Disadvantage on attack and ability checks, can't move toward source",
+        subtitle: "Dis. on attack and ability, can't move toward source",
         description: "You are frightened",
         reference: "PHB, pg. 290.",
         bullets: [
