@@ -79,7 +79,7 @@ data_condition = [
     {
         title: "Invisible",
         icon: "invisible",
-        subtitle: "Advantage on attacks, attacks against you have disadvantage",
+        subtitle: "Adv. on attacks, attacks vs you have dis.",
         description: "You can't be seen without the aid of magic or a special sense",
         reference: "PHB, pg. 291.",
         bullets: [
